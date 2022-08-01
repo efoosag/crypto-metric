@@ -7,6 +7,7 @@ import { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import CoinItem from './CoinItem';
 import { getCoinData } from '../redux/fetchApi';
+import '../App.css';
 
 const Home = () => {
   const dispatch = useDispatch();
@@ -25,17 +26,17 @@ const Home = () => {
 
   return (
     <div>
-      <form>
+      <form className="search">
         <br />
         <input
-          placeholder="SEARCH BY CRYPTO COIN"
+          placeholder="SEARCH CRYPTO COIN"
           className="search"
           type="text"
           value={value}
           onChange={searchHandler}
         />
       </form>
-      <div>
+      <div className="cryptoCase">
         {' '}
         {value
           ? cryptos.coin

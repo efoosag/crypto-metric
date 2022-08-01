@@ -38,17 +38,18 @@ const CoinDetails = () => {
             {crypto.total_supply}
           </h3>
           <h3 className="h3">
-            <span>Market Change</span>
-            {crypto.market_cap_change_24h}
+            <span>Total Volume</span>
+            {crypto.total_volume}
           </h3>
           <h3 className="h3">
             <span>Market Rank</span>
             {crypto.market_cap_rank}
           </h3>
           <h3 className="h3">
-            <span>Total Volume</span>
-            {crypto.total_volume}
+            <span>Market Change</span>
+            {crypto.market_cap_change_24h}
           </h3>
+
           <h3 className="h3">
             <span>Price Change Percentage</span>
             {crypto.price_change_percentage_24h}

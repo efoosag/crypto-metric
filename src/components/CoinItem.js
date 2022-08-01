@@ -5,12 +5,13 @@ import PropTypes from 'prop-types';
 import { FaRegArrowAltCircleRight } from 'react-icons/fa';
 
 import { Link } from 'react-router-dom';
+import '../App.css';
 
 const CoinItem = ({ crypto }) => {
   const { symbol, name, ath, image, id } = crypto;
   return (
-    <div>
-      <div className="parent">
+    <div className="cryptoWrap">
+      <div className="crypto">
         <div>
           <Link
             className="Links"
@@ -24,12 +25,12 @@ const CoinItem = ({ crypto }) => {
           <div className="title">
             <h2 className="Name">{name}</h2>
           </div>
-          <div className="image">
-            <img src={image} alt="coinImages" className="img" />
-          </div>
           <div className="div">
             <p className="ath">{ath}</p>
             <p className="Symbol">{symbol}</p>
+          </div>
+          <div className="imge">
+            <img src={image} alt="coinImages" className="img" />
           </div>
         </div>
       </div>
