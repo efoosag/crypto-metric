@@ -24,7 +24,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  border: 2px solid #fff;
+
   margin: 0 5%;
 }
 
@@ -34,8 +34,9 @@ body {
 }
 
 .crypto {
-  width: 44.2vw;
+  width: 42vw;
   padding: 0;
+  border: 1px solid #fff;
 }
 
 .icon {
