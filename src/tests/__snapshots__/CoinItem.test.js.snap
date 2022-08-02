@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <form
+    className="search"
+  >
+    <br />
+    <input
+      className="search"
+      onChange={[Function]}
+      placeholder="SEARCH CRYPTO COIN"
+      type="text"
+      value=""
+    />
+  </form>
+  <div
+    className="cryptoCase"
+  >
+     
+  </div>
+</div>
+`;
