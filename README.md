@@ -20,6 +20,10 @@ This project is geared towards working with APIS to build a Crypto Market Update
 
 Click: https://efoosag.github.io/crypto-metric/
 
+## For Demo Video
+
+Click: https://www.loom.com/share/3a365b7dd5b0422ca3b6e15b0498a05c
+
 ## Built With
 
 - Major languages
