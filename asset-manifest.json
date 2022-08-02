@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-metric/static/css/main.48819455.css",
+    "main.js": "/crypto-metric/static/js/main.b7702797.js",
+    "static/js/787.be594832.chunk.js": "/crypto-metric/static/js/787.be594832.chunk.js",
+    "index.html": "/crypto-metric/index.html",
+    "main.48819455.css.map": "/crypto-metric/static/css/main.48819455.css.map",
+    "main.b7702797.js.map": "/crypto-metric/static/js/main.b7702797.js.map",
+    "787.be594832.chunk.js.map": "/crypto-metric/static/js/787.be594832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48819455.css",
+    "static/js/main.b7702797.js"
+  ]
+}
