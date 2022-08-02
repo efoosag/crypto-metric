@@ -1,3 +1,4 @@
+/* eslint-disable function-paren-newline */
 /* eslint-disable comma-dangle */
 /* eslint-disable implicit-arrow-linebreak */
 import '@testing-library/jest-dom/extend-expect';
