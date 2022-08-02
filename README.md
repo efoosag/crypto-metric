@@ -1,46 +1,70 @@
-# Getting Started with Create React App and Redux
+# crypto-metric
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project is geared towards working with APIS to build a Crypto Market Update App through the following practices:
 
-## Available Scripts
+- Create repository withe readme file
+- Create Branch
+- Applying best practices for HTML, CSS and JavaScript
+- Applying Github Flow
+- Applying Git Flow
+- Descriptive and Understanding Commit Messages and ReadMe file
+- Pull Request in Github for code review
+- Using the URLs provided for Crypto Market Data
+- Add fetch Data functionality from APIs
+- Display data gotten from the Api
+- Add Stylings
+- Carry jest test
+- Deployment
 
-In the project directory, you can run:
+## For Access Online
 
-### `npm start`
+Click: https://efoosag.github.io/crypto-metric/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## For Demo Video
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Click: https://www.loom.com/share/3a365b7dd5b0422ca3b6e15b0498a05c
 
-### `npm test`
+## Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Major languages
+  HTML
+  CSS
+  JavaScript
+  React and Redux
 
-### `npm run build`
+- Technologies used
+  GitHub and Git
+  Visual Studio Code
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**In order to get a local copy up and running,.**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Clone this repository with git clone git@github.com:efoosag/space-travelers-hub.git using your terminal or command line.
+- After clone the repository, run npm install in the terminal to install all dependencies needed the project to work well.
+- Use npm start to lunch it on my browser
+- Run npm test
 
-### `npm run eject`
+### Prequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    Laptop or Deskstop Computer
+    Internet Connection
+    Power Supply
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Authors
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+👤 **Victor Osagie**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- GitHub: [@efoosag](https://github.com/efoosag)
+- Twitter: [@Victor Osagie](https://www.twitter.com/Victorosagie08)
+- LinkedIn: [@VictorOsagie](https://www.linkedin.com/in/victor-osagie-a713ba22b/)
 
-## Learn More
+## Acknowledgments
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+We will Like to Thank Microverse for creating this platform.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Special Appreciation goes to [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for their Template
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
