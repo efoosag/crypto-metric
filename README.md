@@ -1,46 +1,64 @@
-# Getting Started with Create React App and Redux
+# space-travel-hub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project is geared towards working with APIS to build a Crypto Market Update App through the following practices:
 
-## Available Scripts
+- Create repository withe readme file
+- Create Branch
+- Applying best practices for HTML, CSS and JavaScript
+- Applying Github Flow
+- Applying Git Flow
+- Descriptive and Understanding Commit Messages and ReadMe file
+- Pull Request in Github for code review
+- Using the URLs provided for Crypto Market Data
+- Add fetch Data functionality from APIs
+- Display data gotten from the Api
+- Add Stylings
+- Carry jest test
+- Deployment
 
-In the project directory, you can run:
+## For Access Online
 
-### `npm start`
+Click: https://efoosag.github.io/space-travel-hub/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Built With
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Major languages
+  HTML
+  CSS
+  JavaScript
+  React and Redux
 
-### `npm test`
+- Technologies used
+  GitHub and Git
+  Visual Studio Code
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+**In order to get a local copy up and running,.**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Clone this repository with git clone git@github.com:efoosag/space-travelers-hub.git using your terminal or command line.
+- After clone the repository, run npm install in the terminal to install all dependencies needed the project to work well.
+- Use npm start to lunch it on my browser
+- Run npm test
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Laptop or Deskstop Computer
+    Internet Connection
+    Power Supply
 
-### `npm run eject`
+## Authors
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+👤 **Victor Osagie**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- GitHub: [@efoosag](https://github.com/efoosag)
+- Twitter: [@Victor Osagie](https://www.twitter.com/Victorosagie08)
+- LinkedIn: [@VictorOsagie](https://www.linkedin.com/in/victor-osagie-a713ba22b/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Acknowledgments
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+We will Like to Thank Microverse for creating this platform.
 
-## Learn More
+## 📝 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is [MIT](./MIT.md) licensed.
