@@ -1,4 +1,4 @@
-# space-travel-hub
+# crypto-metric
 
 This project is geared towards working with APIS to build a Crypto Market Update App through the following practices:
 
@@ -62,6 +62,8 @@ Click: https://www.loom.com/share/3a365b7dd5b0422ca3b6e15b0498a05c
 ## Acknowledgments
 
 We will Like to Thank Microverse for creating this platform.
+
+Special Appreciation goes to [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for their Template
 
 ## 📝 License
 
